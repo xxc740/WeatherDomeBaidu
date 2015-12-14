@@ -1,0 +1,6 @@
+D:\Dome\WeatherDome\WeatherDomeBaidu\bin\Debug\WeatherDomeBaidu.exe.config
+D:\Dome\WeatherDome\WeatherDomeBaidu\bin\Debug\WeatherDomeBaidu.exe
+D:\Dome\WeatherDome\WeatherDomeBaidu\bin\Debug\WeatherDomeBaidu.pdb
+D:\Dome\WeatherDome\WeatherDomeBaidu\obj\Debug\WeatherDomeBaidu.exe
+D:\Dome\WeatherDome\WeatherDomeBaidu\obj\Debug\WeatherDomeBaidu.pdb
+D:\Dome\WeatherDome\WeatherDomeBaidu\bin\Debug\Newtonsoft.Json.dll
